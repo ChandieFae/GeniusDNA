@@ -138,6 +138,8 @@ uploads/
 *.vcf
 *.txt
 !requirements.txt
+!examples/*.txt
+!examples/*.vcf
 
 # Database
 *.db
