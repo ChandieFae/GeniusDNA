@@ -1,0 +1,15 @@
+# Sample DNA Data
+# This is a sample file showing SNP identifiers that GeniusDNA can analyze
+# In a real scenario, this would come from services like 23andMe or VCF files
+
+# CYP2C9 - Drug metabolism gene
+rs1799853
+
+# MTHFR - Methylation pathway gene
+rs1801133
+
+# ADRB3 - Metabolism and fat burning gene
+rs4994
+
+# VDR - Vitamin D receptor gene
+rs731236
