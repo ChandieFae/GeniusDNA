@@ -1,0 +1,7 @@
+##fileformat=VCFv4.2
+##source=GeniusDNA_Test
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+10	96702047	rs1799853	C	T	.	.	.
+1	11796321	rs1801133	C	T	.	.	.
+12	48230721	rs731236	T	C	.	.	.
+8	116786572	rs4994	A	G	.	.	.
