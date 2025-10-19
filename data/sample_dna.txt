@@ -1,0 +1,6 @@
+# This file is a sample 23andMe-style SNP report
+# rsid	chromosome	position	genotype
+rs1799853	10	96702047	CC
+rs1801133	1	11796321	CT
+rs731236	12	48230721	TT
+rs4994	8	116786572	AA
